@@ -7,8 +7,10 @@ Authors@R:
            role = c("aut", "cre"),
            email = "eppe4699@stthomas.edu")
 Description: Works with factors
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/eppe4699/foofactors
 BugReports: https://github.com/eppe4699/foofactors/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1

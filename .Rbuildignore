@@ -3,3 +3,4 @@
 ^foofactors\.Rcheck$
 ^foofactors.*\.tar\.gz$
 ^foofactors.*\.tgz$
+^LICENSE\.md$
