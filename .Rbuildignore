@@ -4,3 +4,4 @@
 ^foofactors.*\.tar\.gz$
 ^foofactors.*\.tgz$
 ^LICENSE\.md$
+^README\.Rmd$
